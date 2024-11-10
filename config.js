@@ -16,7 +16,7 @@ global.autoviewstatus = true;                 //make true to view statuses
 global.anticall = false
 
 
-global.SESSION_ID = process.env.SESSION_ID || ""
+global.SESSION_ID = process.env.SESSION_ID || "taira_tech-O5M2AaQB#iJdEA7X8zDpkQBc4VvN7yIm3biP50MPjuF35XlxNkj8"
 global.Owner = ["2347064345873"]; //like 2347080968564 
 global.OwnerName =  "T";
 global.BotName = "♱MAKINO-MD-V2♱♡⃤";
